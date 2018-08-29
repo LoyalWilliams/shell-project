@@ -1,0 +1,1 @@
+select day,station_id,eftcard_count,eftcard_sum,Hose_Delivery_count,Hose_Delivery_sum,transactions_count,transactions_sum from comparison_hive

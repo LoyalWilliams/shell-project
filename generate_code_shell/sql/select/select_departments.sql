@@ -1,0 +1,1 @@
+select department_id,dept_name,tax_id,dept_upper_halo,dept_lower_halo,dept_preset,dept_keynumber,dept_keylabel,dept_unit,dept_number,dept_parent_id,dept_level,dept_status,dept_managed_by,dept_usage from departments

@@ -1,0 +1,1 @@
+select date,stationID,allNumber,dealNumber,star1total,star2total,star3total,star4total,star5total from res_vipEvaluation_all

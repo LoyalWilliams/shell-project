@@ -1,0 +1,1 @@
+select month,carduser_id,rechargeNumber,rechargeTotal from res_vipRechargeMonth_cd

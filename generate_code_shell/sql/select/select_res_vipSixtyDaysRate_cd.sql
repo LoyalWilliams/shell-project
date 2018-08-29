@@ -1,0 +1,1 @@
+select days,allNum,conversionNum from res_vipSixtyDaysRate_cd

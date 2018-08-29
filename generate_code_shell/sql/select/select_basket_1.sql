@@ -1,0 +1,1 @@
+select row_names,orderedItem_1,orderItemFreq_1 from basket_1

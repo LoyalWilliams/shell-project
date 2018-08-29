@@ -1,0 +1,1 @@
+select carduser_id,Rating,Rating2,R,threemonth_rate,threemonth_money,history_rate,history_money from rfm_cd_result

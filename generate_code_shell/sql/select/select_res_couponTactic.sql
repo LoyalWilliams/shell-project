@@ -1,0 +1,1 @@
+select month,send_tactics_id,tacticsTitle,allNumber,usedNumber from res_couponTactic

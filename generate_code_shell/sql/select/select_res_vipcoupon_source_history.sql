@@ -1,0 +1,1 @@
+select days,city,coupon_type,score_allmoney,order_allmoney,reissued_allmoney,other_allmoney,score_usedmoney,order_usedmoney,reissued_usedmoney,other_usedmoney from res_vipcoupon_source_history

@@ -1,0 +1,1 @@
+select days,station_id,goods_name,goods_number,goods_point from res_wechatmall_top

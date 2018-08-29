@@ -1,0 +1,1 @@
+select year,carduser_id,deal_number,mobilePhone,recordTime from res_vipLiveness_yearsourcecd

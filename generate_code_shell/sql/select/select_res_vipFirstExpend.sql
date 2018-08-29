@@ -1,0 +1,1 @@
+select carduser_id,vipFirstExpend from res_vipFirstExpend

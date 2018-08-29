@@ -1,0 +1,1 @@
+select carduser_id,station_id,transaction_id,transaction_date,theory_amount,oil_code,oil_quantity,oil_price from vip_oil

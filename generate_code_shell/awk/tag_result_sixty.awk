@@ -1,0 +1,2 @@
+#! /usr/bin/awk -f
+{print "replace into result.tag_result_sixty(carduser_id,customer_id,customer_type,customer_level,gender,mobileCarType,name,birthday,recordTime,mobilePhone,address,balance,maxStationID,maxOil,maxDepartment,frequency,tag_all) values("$1","$2","$3","$4","$5",""trim('"$6"')"",""trim('"$7"')"",""trim('"$8"')"",""trim('"$9"')"",""trim('"$10"')"",""trim('"$11"')"","$12",""trim('"$13"')"",""trim('"$14"')"",""trim('"$15"')"","$16",""trim('"$17"')"");"}

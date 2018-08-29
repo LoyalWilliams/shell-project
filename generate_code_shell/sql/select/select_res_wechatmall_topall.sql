@@ -1,0 +1,1 @@
+select days,goods_name,goods_number from res_wechatmall_topall

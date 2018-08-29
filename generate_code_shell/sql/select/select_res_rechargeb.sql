@@ -1,0 +1,1 @@
+select date,jdtradeNumber,jdtotalAmount,wxtradeNumber,wxtotalAmount from res_rechargeb

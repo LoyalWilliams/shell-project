@@ -1,0 +1,1 @@
+select ID,enterprise_id,coupon_title,send_time,used_time,tactics_type,coupon_type,discount_amount,station_id,coupon_status from res_coupon

@@ -1,0 +1,1 @@
+select username,permission from user_permission_crm

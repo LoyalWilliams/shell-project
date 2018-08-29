@@ -1,0 +1,1 @@
+select minutes,station_id,instoreNumber,instoreMoney,fastfoodNumber,fastfoodMoney,perishableNumber,perishableMoney,lubeNumber,lubeMoney,cigaretteNumber,cigaretteMoney,dailyNumber,dailyMoney,teamcardNumber,teamcardMoney,alcoholicNumber,alcoholicMoney,snackNumber,snackMoney,nonalcoholicNumber,nonalcoholicMoney,nonfoodNumber,nonfoodMoney from res_notoilDepartmentb_vip

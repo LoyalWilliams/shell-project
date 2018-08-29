@@ -1,0 +1,1 @@
+select days,station_id,refunded_number,refunded_point,notpay_number,notpay_point,tosend_number,tosend_point,paid_number,paid_point,cancel_number,cancel_point from res_wechatmall_status

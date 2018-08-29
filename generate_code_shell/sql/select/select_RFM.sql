@@ -1,0 +1,1 @@
+select carduser_id,lastdeal_date,firstdeal_date,threemonth_number,threemonth_rate,threemonth_money,history_number,history_rate,history_money,customer_level from RFM

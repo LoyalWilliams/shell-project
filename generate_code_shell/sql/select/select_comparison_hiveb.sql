@@ -1,0 +1,1 @@
+select day,station_id,departments_count,Grades_count,Hoses_count,products_count from comparison_hiveb

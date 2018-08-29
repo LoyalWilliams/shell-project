@@ -1,0 +1,1 @@
+select days,city,score_allnumber,order_allnumber,reissued_allnumber,other_allnumber,score_usednumber,order_usednumber,reissued_usednumber,other_usedmoney from res_vipcoupon_discsource

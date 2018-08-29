@@ -1,0 +1,1 @@
+select hours,stationID,notoilNumber,notoilMoney from res_notoil_today

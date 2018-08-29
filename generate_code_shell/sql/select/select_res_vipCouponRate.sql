@@ -1,0 +1,1 @@
+select date,couponStatus,couponMoney from res_vipCouponRate
