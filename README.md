@@ -1,4 +1,5 @@
 # shell-project
+
 ##generate_code_shell
 Maybe it's an insteresting thing.I use shell to generate code,which is used to export data from hive to mysql.Without any tools,I just use shell to complete this job and just for fun.The file, _generate_code.sh,contains programming languages of sql,shell,awk.
 
