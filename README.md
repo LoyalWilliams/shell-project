@@ -9,7 +9,7 @@ Maybe it's an insteresting thing.I use shell to generate code,which is used to e
 导出hive的少量数据数据时，可以直接使用shell编程实现，没有必要使用sqoop或者其他java、Python的工具。
 这个代码导少量数据可以直接用。这个代码的主要部分就是generate_code.sh
 
-##shell-learning
+## shell-learning
 Here are some shell scripts when I lean shell programming.
 学习shell编程的一些代码
  
